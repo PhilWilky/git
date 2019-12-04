@@ -1,0 +1,11 @@
+C:\Users\phil.wilkinson\source\repos\EbayScraperConsole\EbayScraperConsole\bin\Debug\netcoreapp2.1\EbayScraperConsole.deps.json
+C:\Users\phil.wilkinson\source\repos\EbayScraperConsole\EbayScraperConsole\bin\Debug\netcoreapp2.1\EbayScraperConsole.runtimeconfig.json
+C:\Users\phil.wilkinson\source\repos\EbayScraperConsole\EbayScraperConsole\bin\Debug\netcoreapp2.1\EbayScraperConsole.runtimeconfig.dev.json
+C:\Users\phil.wilkinson\source\repos\EbayScraperConsole\EbayScraperConsole\bin\Debug\netcoreapp2.1\EbayScraperConsole.dll
+C:\Users\phil.wilkinson\source\repos\EbayScraperConsole\EbayScraperConsole\bin\Debug\netcoreapp2.1\EbayScraperConsole.pdb
+C:\Users\phil.wilkinson\source\repos\EbayScraperConsole\EbayScraperConsole\obj\Debug\netcoreapp2.1\EbayScraperConsole.csprojAssemblyReference.cache
+C:\Users\phil.wilkinson\source\repos\EbayScraperConsole\EbayScraperConsole\obj\Debug\netcoreapp2.1\EbayScraperConsole.csproj.CoreCompileInputs.cache
+C:\Users\phil.wilkinson\source\repos\EbayScraperConsole\EbayScraperConsole\obj\Debug\netcoreapp2.1\EbayScraperConsole.AssemblyInfoInputs.cache
+C:\Users\phil.wilkinson\source\repos\EbayScraperConsole\EbayScraperConsole\obj\Debug\netcoreapp2.1\EbayScraperConsole.AssemblyInfo.cs
+C:\Users\phil.wilkinson\source\repos\EbayScraperConsole\EbayScraperConsole\obj\Debug\netcoreapp2.1\EbayScraperConsole.dll
+C:\Users\phil.wilkinson\source\repos\EbayScraperConsole\EbayScraperConsole\obj\Debug\netcoreapp2.1\EbayScraperConsole.pdb
